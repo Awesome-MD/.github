@@ -1,4 +1,7 @@
-# Awesome MD (Molecular Dynamics)
+# Awesome MD
+<img src="https://github.com/Awesome-MD/.github/assets/26030553/c09cdb37-eaae-4dcd-b2cd-88bb5de69896" alt="logo" width="180px" style="margin: auto"/>
+
+
 
 Welcome to Awesome MD, your comprehensive resource for Molecular Dynamics mini-projects and simulations. This repository hosts a collection of educational content, sample codes, visualization tools, and more, all designed to help you explore the fascinating world of Molecular Dynamics simulations.
 
